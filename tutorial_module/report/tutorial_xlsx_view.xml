@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <report
+                id="tutorial_apps_xlsx"
+                model="tutorial.module"
+                string="XLSX"
+                report_type="xlsx"
+                name="tutorial_module.tutorial_apps_xlsx"
+                file="tutorial_module"
+                attachment_use="False"
+        />
+
+
+    </data>
+</odoo>
